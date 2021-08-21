@@ -1,11 +1,4 @@
-### Hi there 👋
-
-<!--
-**Sahim98/Sahim98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-👋 Hi, I’m Sahim Salem
+### Hi there I’m Sahim 👋
 👀 I’m interested in competitive programming & problem solving.
 🌱 I’m currently learning Machine Learning.I'm also working on Android Studio. I also have work experience on Java,SQL,C++,C,Python3.
 🔭 I’m currently working on XHTML,CSS,HTML5,BOOTSTRAP.
