@@ -13,7 +13,4 @@ Here are some ideas to get you started:
 📫 How to reach me:
 sahimsalem@gmail.com
 https://www.linkedin.com/in/sahim-salem-24651418b/
-- 💬 Ask me about anything
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
--->
+
