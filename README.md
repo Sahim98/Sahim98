@@ -2,11 +2,10 @@
 
 👀 I’m interested in competitive programming & problem solving.
 
-🌱 I’m currently learning Machine Learning.I'm also working on Android Studio. I also have work experience on Java,SQL,C++,C,Python3.
+🌱 I’m currently working on Flutter app development.
+🔭 I also have work experience on Java,SQL,C++,C,Python3,dart.
 
-🔭 I’m currently working on XHTML,CSS,HTML5,BOOTSTRAP.
-
-💞️ I’m looking to collaborate on anything related to problem solving , competitive programming.
+💞️ I’m looking to collaborate on anything related to problem solving , competitive programming,flutter app development.
 
 📫 How to reach me:
 
