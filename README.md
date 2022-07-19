@@ -4,6 +4,11 @@
 </h1>
 
 ### **About me:**
+<div>
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="400"/>
+</div>
+</div>
 
 
 - :telescope: I’m currently doing B.Sc Engineering in **CSE**(*Session:2017-18*) at **Chittagong University** and  building cross-platflorm based applications.
