@@ -5,6 +5,7 @@
 
 ## **Languages:**
 <div id="badges" align = "center">
+  
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170">
     <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c++&logoColor=white" alt="C++ Badge"/>
   </a>
@@ -18,9 +19,19 @@
   </a>
   </a>
      <a href="https://docs.oracle.com/en/java/">
-    <img src="https://img.shields.io/badge/java-red?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   </a>
 </div>
+
+### **:hammer_and_wrench: Tools :**
+
+<div align = "center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
 
 
 ![](https://komarev.com/ghpvc/?username=Sahim98)
