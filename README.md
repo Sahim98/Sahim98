@@ -3,6 +3,18 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+### **About me:**
+
+
+- :telescope: I’m currently doing B.Sc Engineering in **CSE**(*Session:2017-18*) at **Chittagong University** and  building cross-platflorm based applications.
+
+- :seedling: Exploring **Blockchain**,**Web-3**,**Smat-Contrat**.
+
+- :zap: In my free time, I solve problems on Codeforces, Codechef and CSES.
+
+- :mailbox:How to reach me:   [![Linkedin Badge](https://img.shields.io/badge/-sahim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sahim-salem-24651418b) 
+[![Gmail Badge](https://img.shields.io/badge/-sahim-red?style=flat&logo=Gmail&logoColor=white)](sahimsalem@gmail.com)
+
 ## **Languages:**
 <div id="badges" align = "center">
   
