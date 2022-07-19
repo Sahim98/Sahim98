@@ -4,11 +4,13 @@
 </h1>
 
 ### **About me:**
-<div>
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="400"/>
+
+  
 </div>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
 
 
 - :telescope: I’m currently doing B.Sc Engineering in **CSE**(*Session:2017-18*) at **Chittagong University** and  building cross-platflorm based applications.
@@ -49,8 +51,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+### My Github Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sahim98&show_icons=true&count_private=true&theme=dark" alt="Sahim98" />
 
-## **Contribution Graph:**
+
+### **My Contribution Graph:**
  
  <!-- ACTIVITY GRAPH TRACKER -->
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=Sahim98&theme=react-dark)](https://github.com/ShahjalalShohag/github-readme-activity-graph)
