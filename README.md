@@ -49,8 +49,18 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="50"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" height = "40" width = "40"/>
 </div>
+
+## **IDE:**
+<div align = "center">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" height = "40" width = "40"/>
+ <img src = "https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt - "PyCharm" height = 40 width = "40"/>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt = "AndroidStudio" height = "40" width = "40"/>
+   <img src="https://github.com/SublimeText/AFileIcon/blob/master/icons/svg/file_type_sublime.svg" alt="Sublime" height = "40" width = "40"/>
+</div>
+  
+
+
 
 ### My Github Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sahim98&show_icons=true&count_private=true&theme=dark" alt="Sahim98" />
