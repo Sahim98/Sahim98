@@ -24,7 +24,7 @@
 <div id="badges" align = "center">
   
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170">
-    <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c++&logoColor=white" alt="C++ Badge"/>
+    <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c++&logoColor=red" alt="C++ Badge"/>
   </a>
   <a href="https://dart.dev/guides">
      <img src="https://img.shields.io/badge/Dart-indigo?style=for-the-badge&logo=dart&logoColor=blue" alt="Dart Badge"/>
@@ -50,9 +50,14 @@
 </div>
 
 
+## **Contribution Graph:**
+ 
+ <!-- ACTIVITY GRAPH TRACKER -->
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=Sahim98&theme=react-dark)](https://github.com/ShahjalalShohag/github-readme-activity-graph)
 
 ![](https://komarev.com/ghpvc/?username=Sahim98)
 
+<!--  CONTRIBUTION AND STREAK BLOCK -->
 ---
 
 ### :fire: My Stats :
