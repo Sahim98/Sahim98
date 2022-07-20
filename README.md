@@ -69,7 +69,7 @@
 ### **My Contribution Graph:**
  
  <!-- ACTIVITY GRAPH TRACKER -->
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=Sahim98&theme=react-dark)](https://github.com/ShahjalalShohag/github-readme-activity-graph)
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=Sahim98&theme=react-dark)](https://github.com/Sahim98/github-readme-activity-graph)
 
   <!-- Profile views -->
 ![](https://komarev.com/ghpvc/?username=Sahim98)
