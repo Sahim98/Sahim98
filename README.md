@@ -22,7 +22,7 @@
 - :mailbox:How to reach me:   [![Linkedin Badge](https://img.shields.io/badge/-sahim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sahim-salem-24651418b) 
 [![Gmail Badge](https://img.shields.io/badge/-sahim-red?style=flat&logo=Gmail&logoColor=white)](sahimsalem@gmail.com)
 
-## **Languages:**
+### **Languages:**
 <div id="badges" align = "center">
   
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170">
@@ -51,7 +51,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="50"/>
 </div>
 
-## **IDE:**
+### **IDE:**
 <div align = "center">
  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" height = "40" width = "40"/>
  <img src = "https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt - "PyCharm" height = 40 width = "40"/>
