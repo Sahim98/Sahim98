@@ -22,6 +22,13 @@
 - :mailbox:How to reach me:   [![Linkedin Badge](https://img.shields.io/badge/-sahim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sahim-salem-24651418b) 
 [![Gmail Badge](https://img.shields.io/badge/-sahim-red?style=flat&logo=Gmail&logoColor=white)](sahimsalem@gmail.com)
 
+<h11>Where to find me</h1>
+<p>
+<a href="https://github.com/hrnbot" target="Sahim98"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/hiren-namera-83520ab4" target="https://www.linkedin.com/in/sahim-salem-24651418b"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/the_artificial_intel_developer/" target="https://www.instagram.com/sahim4740/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.gmail.com/the_artificial_intel_developer/" target="https://sahimsalem@gmail.com/sahim4740/"><img alt="Gmail" src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=red" /></a>
+
+</p>
+
 ### **Languages:**
 <div id="badges" align = "center">
   
