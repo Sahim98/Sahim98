@@ -74,7 +74,11 @@
 
 
 ### My Github Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sahim98&show_icons=true&count_private=true&theme=dark" alt="Sahim98" />
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sahim98&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="adam-pw" /></p>
+<br>
 
 
 ### **My Contribution Graph:**
@@ -90,7 +94,8 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sahim98&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Sahim98&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
 
 
 <!--  TOP LANGUAGES STATISTICS -->
