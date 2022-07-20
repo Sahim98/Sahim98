@@ -33,22 +33,24 @@
 
 ### **Languages:**
 <div id="badges" align = "center">
-  
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170">
-    <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c++&logoColor=red" alt="C++ Badge"/>
-  </a>
+<a href="https://www.cprogramming.com/" target="_blank"
+    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+      alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+      alt="cplusplus" width="40" height="40" /> </a> 
+ 
   <a href="https://dart.dev/guides">
      <img src="https://img.shields.io/badge/Dart-indigo?style=for-the-badge&logo=dart&logoColor=blue" alt="Dart Badge"/>
   </a>
-    <a href="https://docs.python.org/3/">
-    <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow" alt="Python Badge"/>
-  </a>
-  
+
   </a>
   </a>
      <a href="https://docs.oracle.com/en/java/">
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
+      width="40" height="40" /> </a> 
 </div>
 
 ### **:hammer_and_wrench: Tools :**
