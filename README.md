@@ -27,7 +27,7 @@
 <a href="https://github.com/Sahim98" target="Sahim98"><img alt="Sahim98" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/sahim-salem-24651418b" target="https://www.linkedin.com/in/sahim-salem-24651418b"><img alt="Sahim-Salem" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="https://www.instagram.com/sahim4740" target="https://www.instagram.com/sahim4740/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.gmail.com/sahimsalem@gmail.com/" target="https://sahimsalem@gmail.com/sahim4740/"><img alt="Gmail" src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=red" /></a>
+  <a href="https://mail.google.com/mail/u/0/#inbox" target="https://sahimsalem@gmail.com/sahim4740/"><img alt="Gmail" src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=red" /></a>
 
 </p>
 
