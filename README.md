@@ -17,7 +17,7 @@
 
 - :seedling: I am skilled in MERN stack web development and **Flutter full-stack app development**.
 
-- :zap: I have experience with competitive programming as well. I'm a **3\* coder** at Codechef and a **PUPIL** at Codeforces.
+- :zap: I have experience in competitive programming as well. I'm a **3\* coder** at Codechef and a **PUPIL** at Codeforces.
   
 - 🥇 I've done my thesis in  **A multi-task solution for aspect category sentiment analysis of religious hate speech based on Bangla datasets**.
 
