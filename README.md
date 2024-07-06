@@ -13,11 +13,14 @@
 
 
 
-- :telescope: I’m currently doing B.Sc Engineering in **CSE**(*Session:2017-18*) at **Chittagong University** and  building cross-platflorm based applications.
+- :telescope: I’ve completed B.Sc Engineering in **CSE**(*Session:2017-18*) at **Chittagong University**.
 
-- :seedling: Exploring **Blockchain**,**Web-3**,**Smat-Contrat**.
+- :seedling: I am skilled in MERN stack web development and **Flutter full-stack app development**.
 
-- :zap: In my free time, I solve problems on Codeforces, Codechef and CSES.
+- :zap: I have experience with competitive programming as well. I'm a 3* coder on Codechef and a PUPIL at Codeforces.
+  
+- 🥇 I've done my thesis in  **A multi-task solution for aspect category sentiment analysis of religious hate speech based on Bangla datasets**.
+
 
 
 <h11>**Where to find me**</h1>
@@ -82,7 +85,9 @@
 ### **My Contribution Graph:**
  
  <!-- ACTIVITY GRAPH TRACKER -->
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=Sahim98&theme=react-dark)](https://github.com/Sahim98/github-readme-activity-graph)
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sahim98&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <!-- Profile views -->
 ![](https://komarev.com/ghpvc/?username=Sahim98)
