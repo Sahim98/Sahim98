@@ -13,7 +13,7 @@
 
 
 
-- :telescope: I’ve completed B.Sc Engineering in **CSE**(*Session:2017-18*) at **Chittagong University**.
+- :telescope: I’ve completed B.Sc Engineering in **CSE**(*Session:2017-18*) from **Chittagong University**.
 
 - :seedling: I am skilled in MERN stack web development and **Flutter full-stack app development**.
 
