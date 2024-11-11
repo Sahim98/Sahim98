@@ -19,7 +19,7 @@
 
 - :zap: I have experience in competitive programming as well. I'm a **3\* coder** at Codechef and a **PUPIL** at Codeforces.
   
-- 🥇 I've done my thesis in  **A multi-task solution for aspect category sentiment analysis of religious hate speech based on Bangla datasets**.
+- 🥇 My thesis title is **A multi-task solution for aspect category sentiment analysis of religious hate speech based on Bangla datasets**.
 
 
 
